@@ -7,7 +7,7 @@ Install XAMPP Control Panel in your PC/ machines.
 2.Copy all the files presented inside the directory and paste the files inside another new directory in your PC/ machine.
 3.Open the XAMPP, and start the server to up.
 4.Open any web browser and type http://localhost/[directory or file name]/
-5.For login purposes use the email:pavithra@gmail.com and Password:abc123
+5.For login purposes use the email:hashini.amarasena@gmail.com and Password:abc123
                                     ---------Process Happens-----------
 After the successful login, it redirects to the Updating User page. Where you need to input email and password and finally click the login Button. 
 --------URL of the Blog-------

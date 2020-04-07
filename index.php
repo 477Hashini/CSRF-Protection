@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title> CSRF protection</title>
+		<title> CSRF protection hash_hkdf</title>
 		<meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -10,7 +10,7 @@
 	</head>
 	<body>
 		<br>
-		<div align='center'>
+		<div align='center' >
 			<a href="stplogin.php" class="button"><button type="submit" class="btn btn-success" id="syn" name="syn" >CSRF protection by Syncronize Token pattern </button></a>
 		</div>
 		<br>

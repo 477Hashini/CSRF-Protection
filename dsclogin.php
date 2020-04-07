@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>CSRF protection by Double submit cookie</title>
+		<title>CSRF protection by Double hehe grr submit cookie</title>
 		<meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 		
